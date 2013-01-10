@@ -1,0 +1,31 @@
+Git
+
+**Three-tree architecture
+
+
+1) repository
+
+2) staging index
+
+3) working
+
+How git works_
+
+Add file to working [create file]
+
+git add [file.txt] pushes up to staging
+
+git commit [file.txt] pushes up to repository
+
+
+**Makes a checksum - hash on commits and saves.
+
+uses SHA-1 hash algorith
+		40 char hexadecimal string
+
+Head - last state of repository
+	where is the playhead?
+
+	edit
+	
+	
